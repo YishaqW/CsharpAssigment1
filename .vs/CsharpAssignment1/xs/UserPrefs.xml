@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{F27D464F-6E43-4566-9CE5-90A6F2BE08E1}|Default">
+  <MonoDevelop.Ide.ItemProperties.CsharpAssignment1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CsharpAssignment1/Program.cs">
+    <Files>
+      <File FileName="CsharpAssignment1/Program.cs" Line="129" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CsharpAssignment1" expanded="True">
+            <Node name="CsharpAssignment1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

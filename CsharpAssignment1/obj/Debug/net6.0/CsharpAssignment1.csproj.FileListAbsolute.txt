@@ -1,0 +1,15 @@
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/bin/Debug/net6.0/CsharpAssignment1
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/bin/Debug/net6.0/CsharpAssignment1.deps.json
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/bin/Debug/net6.0/CsharpAssignment1.runtimeconfig.json
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/bin/Debug/net6.0/CsharpAssignment1.dll
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/bin/Debug/net6.0/CsharpAssignment1.pdb
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/obj/Debug/net6.0/CsharpAssignment1.csproj.AssemblyReference.cache
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/obj/Debug/net6.0/CsharpAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/obj/Debug/net6.0/CsharpAssignment1.AssemblyInfoInputs.cache
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/obj/Debug/net6.0/CsharpAssignment1.AssemblyInfo.cs
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/obj/Debug/net6.0/CsharpAssignment1.csproj.CoreCompileInputs.cache
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/obj/Debug/net6.0/CsharpAssignment1.dll
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/obj/Debug/net6.0/refint/CsharpAssignment1.dll
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/obj/Debug/net6.0/CsharpAssignment1.pdb
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/obj/Debug/net6.0/CsharpAssignment1.genruntimeconfig.cache
+/Users/darreldillettejr/Documents/JOBBBBB/c#/CsharpAssignment1/CsharpAssignment1/obj/Debug/net6.0/ref/CsharpAssignment1.dll
